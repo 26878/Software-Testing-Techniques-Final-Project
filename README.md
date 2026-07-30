@@ -12,9 +12,3 @@ I proceeded to create the location service which will serve as the logic that va
 
 After I did 4 unit tests that verifies a Province can be saved with null parent, verifies a District saves successfully when linked to an existing Province, verifies the system rejects creating a District if its parent location does not exist in the database and also verifies the database blocks duplicate location codes.
 
-
-
-Below is the zipped file for today's progress:
-
-
-[AUCA LIBRARY MANAGEMENT SYSTEM.zip](https://github.com/user-attachments/files/30526161/AUCA.LIBRARY.MANAGEMENT.SYSTEM.zip)
